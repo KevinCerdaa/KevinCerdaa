@@ -1,3 +1,6 @@
+<h1 align="center">Hola 👋, soy Kevin Cerda</h1>
+<h3 align="center">Estudiante de Ingeniería en Tec. de la Información.</h3>
+
 # 💫 Acerda de mi:
 💻 Ingeniero en proceso<br>📕 Estudiante en UPSLP<br>🌮 Mexicano de coraza 🫶<br>🌱 Buscando aprender nuevas cosas<br>🌐 Aprendiendo inglés
 
