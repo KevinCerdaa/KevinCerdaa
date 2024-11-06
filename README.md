@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7951A&center=true&vCenter=true&width=435&lines=Yo+soy+Kevin+Cerda;Estudiante+de+Ingenier%C3%ADa;Bienvenido)](https://git.io/typing-svg)
 
 # 👦 Acerca de mi:
 👨‍💻 Estudiante de Ingeniería en Tecnologías de la Información<br>💻 Dispuesto a aprender nuevas tecnologías<br>📄 En busca de desarrollar proyectos<br>🎒 Estudiante en UPSLP
