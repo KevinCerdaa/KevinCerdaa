@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,ai)](https://skillicons.dev)
 
 # ✍️ Tecnologías que estoy aprendiendo 🧠:
-[![My Skills](https://skillicons.dev/icons?i=c,blender,latex,unity,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,latex,py,arduino)](https://skillicons.dev)
 
 # 📊 Mis estaditicas 👨‍💻:
 ![](https://github-readme-stats.vercel.app/api?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 Por si gustas apoyarme
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kevcerdaa) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinCerdaa) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kevcerdaa) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinCerdaa) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KevinCerdaa&icon=8&color=7)](https://visitcount.itsvg.in)
