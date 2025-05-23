@@ -9,10 +9,10 @@
 
 
 # 💻 Tecnologías que domino 💪:
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,html,css)](https://skillicons.dev)
 
 # ✍️ Tecnologías que estoy aprendiendo 🧠:
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,latex,py,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,latex,py,arduino)](https://skillicons.dev)
 
 # 📊 Mis estaditicas 👨‍💻:
 ![](https://github-readme-stats.vercel.app/api?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
