@@ -12,7 +12,7 @@ Information Technologies Engineering student focussed on frontend web developmen
 [![My Skills](https://skillicons.dev/icons?i=c,html,tailwind)](https://skillicons.dev)
 
 # ✍️ In learning:
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,php)](https://skillicons.dev)
 
 # 📊 My stats 👨‍💻:
 ![](https://github-readme-stats.vercel.app/api?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
