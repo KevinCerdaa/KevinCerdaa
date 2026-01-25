@@ -9,7 +9,7 @@ Information Technologies Engineering student focussed on frontend web developmen
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-francisco-cerda/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kevinn.cerda/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kevin.cerda.748533/)
 
 # 💻 My stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,tailwind)](https://skillicons.dev)
 
 # ✍️ In learning:
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,php)](https://skillicons.dev)
