@@ -2,7 +2,7 @@
 # 👨‍💻 About me:
 Information Technologies Engineering student focussed on frontend web development and learn new and modern technologies. <br>Ready to build new projects and apply my skills. 😎💻
 
-## 🌐
+## 🌐 My website:
 [![Static Badge](https://img.shields.io/badge/MY_SITE-flat?color=%23ff6949)](https://www.kevincerdaa.com.mx/)
 
 ## 🛜 Socials:
