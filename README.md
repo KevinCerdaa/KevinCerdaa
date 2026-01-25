@@ -2,11 +2,11 @@
 # 👨‍💻 About me:
 Information Technologies Engineering student focussed on frontend web development and learn new and modern technologies. <br>Ready to build new projects and apply my skills. 😎💻
 
+## 🌐
+![Static Badge](https://img.shields.io/badge/MY_SITE-flat?color=%23ff6949&link=https%3A%2F%2Fwww.kevincerdaa.com.mx%2F)
 
 ## 🛜 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kevinn.cerda/)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-francisco-cerda/)
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-francisco-cerda/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kevinn.cerda/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kevin.cerda.748533/)
 
 # 💻 My stack:
 [![My Skills](https://skillicons.dev/icons?i=c,html,tailwind)](https://skillicons.dev)
