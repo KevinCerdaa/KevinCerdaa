@@ -1,9 +1,6 @@
 <div align = 'center'>
 # Kevin Cerda
-
-</div>
-
-# 👨‍💻 About me:
+## 👨‍💻 About me:
 Information Technology Engineering student focused on frontend web development and learning modern technologies.
 <br>
 Ready to develop new projects and apply my skills. 😎💻
@@ -24,3 +21,4 @@ Ready to develop new projects and apply my skills. 😎💻
 ![](https://github-readme-stats.vercel.app/api?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KevinCerdaa&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCerdaa&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
