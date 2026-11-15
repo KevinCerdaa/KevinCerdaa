@@ -1,6 +1,6 @@
 <div align = 'center'>
 
-  # David Alejandro Tristán Contreras
+# David Alejandro Tristán Contreras
 
 ### IT Student | Software Development & IT Infrastructure
 
