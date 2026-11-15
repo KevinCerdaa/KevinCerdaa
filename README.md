@@ -1,10 +1,11 @@
 <div align = 'center'>
 
-# David Alejandro Tristán Contreras
-
-### IT Student | Software Development & IT Infrastructure
-
 # Kevin Cerda
+
+### IT Engineering Student at UPSLP 🇲🇽
+
+<br>
+
 ## 👨‍💻 About me:
 Information Technology Engineering student focused on frontend web development and learning modern technologies.
 <br>
