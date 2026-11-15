@@ -1,6 +1,8 @@
 <div align = 'center'>
-  # Welcome
+# Kevin Cerda
+
 </div>
+
 # 👨‍💻 About me:
 Information Technology Engineering student focused on frontend web development and learning modern technologies.
 <br>
